@@ -1,2 +1,2 @@
 # Manuel-Fernando-Paredes
-Software Analyst and Developer
+Aprendiz de Analisis y Desarrollo de Software
